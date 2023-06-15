@@ -1,3 +1,5 @@
+subprocess.run(['pip', 'install', 'sklearn'])
+subprocess.run(['pip', 'install', 'scikit-mlm'])
 import subprocess
 import streamlit as st
 import pandas as pd
